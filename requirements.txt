@@ -1,0 +1,13 @@
+pandas   
+numpy    
+matplotlib    
+wordcloud     
+scikit-learn              
+sentence-transformers     
+faiss-gpu      
+transformers    
+torch     
+spacy      
+keybert     
+SGDClassifier     
+jupyter   
